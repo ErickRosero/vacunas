@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("vacunas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7178cc422686529bf79c797d4a073a3186cdbc1")]
 [assembly: System.Reflection.AssemblyProductAttribute("vacunas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("vacunas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -16,3 +16,4 @@ C:\Users\ASUS\Desktop\Erick\vacunas\obj\Debug\net8.0\refint\vacunas.dll
 C:\Users\ASUS\Desktop\Erick\vacunas\obj\Debug\net8.0\vacunas.pdb
 C:\Users\ASUS\Desktop\Erick\vacunas\obj\Debug\net8.0\vacunas.genruntimeconfig.cache
 C:\Users\ASUS\Desktop\Erick\vacunas\obj\Debug\net8.0\ref\vacunas.dll
+C:\Users\ASUS\Desktop\Erick\vacunas\obj\Debug\net8.0\vacunas.sourcelink.json
